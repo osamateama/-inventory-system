@@ -131,7 +131,7 @@ Additionally, the system will include a simplified sales module with invoice gen
 ### 1. Product Management  
 - Complete CRUD operations for products  
 - Hierarchical category system  
-- Product details with images and metadata  
+- Product details and metadata  
 - SKU and barcode management  
 - Minimum stock level configuration  
 
